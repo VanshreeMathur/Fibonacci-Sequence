@@ -1,2 +1,2 @@
 # Fibonacci-Sequence
-This script was designed to 
+This script was designed to calculate the difference between 
